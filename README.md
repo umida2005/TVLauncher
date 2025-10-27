@@ -19,4 +19,4 @@ A simple Android TV Launcher that lists all installed apps and allows launching 
 Watch the demo video here: [[YouTube link or Google Drive link](https://drive.google.com/file/d/1S1WB6uIdKJve3kIS6BwZLA-7kHZ5ya1Z/view?usp=sharing)]
 
 ## 📦 APK
-Download the APK: [GitHub release link]
+Download the APK: [[GitHub release link](https://github.com/umida2005/TVLauncher/blob/main/app-debug.apk)]
